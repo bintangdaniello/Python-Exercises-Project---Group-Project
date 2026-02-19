@@ -61,6 +61,7 @@ An adaptation of the classic word-guessing game where the computer randomly sele
 - Debugging and code improvement
 - User input validation and handling text interactions
 - Data structure management like Lists, Strings, and 2D lists
+- Teamwork
 
 ## How to Run
 1. Open the respective `.py` file in Python or an IDE (e.g., PyCharm, VS Code)  
