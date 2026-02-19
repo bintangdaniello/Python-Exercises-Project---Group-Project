@@ -1,6 +1,6 @@
 # Python-Group-Projects
 Final group Python projects: Dice Rolling Simulator, Guess The Number, Personal Budget Tracker, Grid Based Exploration, and Hangman Game, showcasing fundamental coding and problem-solving skills.
-This repository contains five Python projects completed as part of our group assignment:
+This repository contains five Python projects completed as part of our group work:
 
 ## 1. Dice Rolling Simulator
 A simple program that simulates rolling a dice and tells the user the random number obtained between 1 and 6.
